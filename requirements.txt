@@ -107,5 +107,3 @@ wheel==0.32.3
 wrapt==1.12.1
 xgboost==1.4.2
 zipp==3.4.1
-boto3
-munch
