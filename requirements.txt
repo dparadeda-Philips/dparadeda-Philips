@@ -110,3 +110,4 @@ zipp==3.4.1
 boto3
 munch
 matplotlib
+tkinter
